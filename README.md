@@ -6,4 +6,4 @@ This repository the contains necessary python script that generates the same out
 To get it to function you will need to first install the primer3 module. The module can be found at: https://pypi.org/project/primer3-py/
 The entire primer3 pacakge will need to be copied into your working folder for functionality.
 
-A sample output (Sample_mutagenesis.csv) has been provided in the reposirtory for reference.
+A sample output (Sample_mutagenesis.csv) has been provided in the repository for reference.
